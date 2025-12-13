@@ -1,4 +1,4 @@
-1. Tujuan Praktikum
+# 1. Tujuan Praktikum
 
 Praktikum ini bertujuan agar mahasiswa:
 
@@ -10,7 +10,7 @@ Mampu membuat program OOP sederhana menggunakan PHP.
 
 Menerapkan modularisasi menggunakan class library seperti Form dan Database.
 
-2. Langkah Kerja Praktikum
+# 2. Langkah Kerja Praktikum
 2.1. Persiapan Project
 
 Buat folder baru pada webserver (XAMPP/htdocs):
@@ -20,7 +20,7 @@ htdocs/lab10_php_oop/
 
 ![ss](lab10.3.png)
 
-3. Praktikum OOP – Program Mobil
+# 3. Praktikum OOP – Program Mobil
 3.1. File: mobil.php
 
 Program ini membuat class Mobil dengan property dan method, kemudian membuat dua objek berbeda.
@@ -68,7 +68,7 @@ $b->tampilWarna();
 
 ![ss](lab10.1.png)
 
-4. Class Library — Form
+# 4. Class Library — Form
 4.1. File: form.php
 
 Class library ini digunakan untuk membuat form input secara dinamis.
